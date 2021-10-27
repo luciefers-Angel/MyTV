@@ -34,7 +34,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Local</td><td align="right">18</td><td align="left"><code>http://qqtv.nl:8080/live/glista/glista/273497.m3u8</code></td></tr>
+		<tr><td align="left">Local</td><td align="right">18</td><td align="left"><code>https://iptvcat.com/my_list/480da77dc735899383b6cefce1e6bfe4.m3u8</code></td></tr>
 		<tr><td align="left">Philippines</td><td align="right">18</td><td align="left"><code>https://iptv-org.github.io/iptv/countries/ph.m3u</code></td></tr>
 		<tr><td align="left">Auto</td><td align="right">18</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
 		<tr><td align="left">Animation</td><td align="right">30</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
