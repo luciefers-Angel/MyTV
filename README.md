@@ -34,7 +34,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Local</td><td align="right">18</td><td align="left"><code>https://iptvcat.com/my_list/480da77dc735899383b6cefce1e6bfe4.m3u8</code></td></tr>
+		<tr><td align="left">Local</td><td align="right">18</td><td align="left"><code>http://jotokusi.com/ftp/Animation%20Movies/Attack%20on%20Titan%20Crimson%20Bow%20and%20Arrow%20(2014)%201080p%20BluRay%20AC3%205.1%20x265.mkv</code></td></tr>
 		<tr><td align="left">Philippines</td><td align="right">18</td><td align="left"><code>https://iptv-org.github.io/iptv/countries/ph.m3u</code></td></tr>
 		<tr><td align="left">Auto</td><td align="right">18</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
 		<tr><td align="left">Animation</td><td align="right">30</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
